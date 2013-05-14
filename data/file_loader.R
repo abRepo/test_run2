@@ -1,0 +1,1 @@
+geocoded.items = read.table("data/geocoded_items.txt",sep="|")
